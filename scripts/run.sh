@@ -1,0 +1,1 @@
+nohup ./download_all_data.sh /home/qcdong/af_data > log.log 2>&1 &
